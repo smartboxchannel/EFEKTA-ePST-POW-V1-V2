@@ -2,10 +2,12 @@
   "name": "EFEKTA_ePST_POW V2",
   "manufacturer": "EfektaLab",
   "model": "EFEKTA_ePST_POW_V2_E_LR",
-  "manufacturerId": "EfektaLab",
-  "modelId": "EFEKTA_ePST_POW_V2_E_LR",
-  "catalogId": -1,
-  "status": "Test",
+  "manufacturerIds": [
+    "EfektaLab"
+  ],
+  "modelIds": [
+    "EFEKTA_ePST_POW_V2_E_LR"
+  ],
   "template": [
     "/_Battery/BatteryPercentageRemaining.json"
   ],
